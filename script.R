@@ -14,7 +14,7 @@ usethis::use_github()
 # Render ==============================================
 bookdown::render_book("index.Rmd", "bookdown::bs4_book",output_dir = "docs")
 bookdown::render_book("index.Rmd", "bookdown::epub_book",output_dir = "docs")
-bookdown::render_book("index.Rmd", "bookdown::pdf_book", output_dir = "docs")
+# bookdown::render_book("index.Rmd", "bookdown::pdf_book", output_dir = "docs")
 # Serve locally ================================================================
 # ?bookdown::serve_book()
 bookdown::serve_book(port = 8787, in_session = T,preview = T,output_dir = "docs")

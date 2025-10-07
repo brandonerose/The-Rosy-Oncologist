@@ -3,3 +3,5 @@ usage
 render-book
 preview-book
 preface
+drugs
+methotrexate
