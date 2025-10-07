@@ -1,7 +1,7 @@
 ---
 title: "The Rosy Oncologist: A Compilation of Cancer Knowledge"
 author: "Brandon Rose, MD, MPH"
-date: "12/2024"
+date: "10/2025"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
